@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo 'setwd("/home/jovyan/cht59_src/R Code/analysis")' >> /home/jovyan/.Rprofile
